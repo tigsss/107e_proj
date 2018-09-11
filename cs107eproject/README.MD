@@ -3,7 +3,7 @@ Alex Lee and Tiger Sun
 
 ![alt tag](https://snag.gy/K3fnLP.jpg "Our box!")
 
-## Description
+## Course Description
 This project was for the final project of CS107e (Computer Systems from the Ground Up) class at Stanford. We worked with a bare-metal Raspberry Pi and wrote the libraries for the RPi as part of the class. We coded in C.
 
 ## Goal
