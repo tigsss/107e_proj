@@ -3,6 +3,9 @@ Alex Lee and Tiger Sun
 
 ![alt tag](https://snag.gy/K3fnLP.jpg "Our box!")
 
+## Description
+This project was for the final project of CS107e (Computer Systems from the Ground Up) class at Stanford. We worked with a bare-metal Raspberry Pi and wrote the libraries for the RPi as part of the class. We coded in C.
+
 ## Goal
 Our goal was to retrofit an old, vintage speaker system, and attach speakers and LED's to it. We would attempt to play audio from the SD card to the speakers, and we wanted to do a sort of audio visualization algorithm to link the audio and LEDs together.
 
